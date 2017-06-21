@@ -1,0 +1,4 @@
+Please install the following dependencies:
+pip install python-docx
+pip install -U pytest
+pip install requests
